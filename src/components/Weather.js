@@ -19,6 +19,7 @@ class Weather extends Component {
   componentDidMount() {
     this.props.onLoad();
   }
+
   render() {
     const {
       loading,
