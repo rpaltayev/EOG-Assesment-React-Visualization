@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/rpaltayev/EOG-Assesment-React-Visualization.git/precache-manifest.d5153711e5048adb0ead589f6b2f88e2.js"
+  "/EOG-Assesment-React-Visualization/precache-manifest.0279b2d6dc1bc3f6bc47f53d7cc5d64e.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/rpaltayev/EOG-Assesment-React-Visualization.git/index.html", {
+workbox.routing.registerNavigationRoute("/EOG-Assesment-React-Visualization/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

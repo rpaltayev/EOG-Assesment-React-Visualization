@@ -1,13 +1,13 @@
 {
-  "main.js": "/rpaltayev/EOG-Assesment-React-Visualization.git/static/js/main.7e833dd3.chunk.js",
-  "main.js.map": "/rpaltayev/EOG-Assesment-React-Visualization.git/static/js/main.7e833dd3.chunk.js.map",
-  "static/css/1.297a6a09.chunk.css": "/rpaltayev/EOG-Assesment-React-Visualization.git/static/css/1.297a6a09.chunk.css",
-  "static/js/1.b79d1b91.chunk.js": "/rpaltayev/EOG-Assesment-React-Visualization.git/static/js/1.b79d1b91.chunk.js",
-  "static/js/1.b79d1b91.chunk.js.map": "/rpaltayev/EOG-Assesment-React-Visualization.git/static/js/1.b79d1b91.chunk.js.map",
-  "runtime~main.js": "/rpaltayev/EOG-Assesment-React-Visualization.git/static/js/runtime~main.09b9dc74.js",
-  "runtime~main.js.map": "/rpaltayev/EOG-Assesment-React-Visualization.git/static/js/runtime~main.09b9dc74.js.map",
-  "static/css/1.297a6a09.chunk.css.map": "/rpaltayev/EOG-Assesment-React-Visualization.git/static/css/1.297a6a09.chunk.css.map",
-  "index.html": "/rpaltayev/EOG-Assesment-React-Visualization.git/index.html",
-  "precache-manifest.d5153711e5048adb0ead589f6b2f88e2.js": "/rpaltayev/EOG-Assesment-React-Visualization.git/precache-manifest.d5153711e5048adb0ead589f6b2f88e2.js",
-  "service-worker.js": "/rpaltayev/EOG-Assesment-React-Visualization.git/service-worker.js"
+  "main.js": "/EOG-Assesment-React-Visualization/static/js/main.4114e646.chunk.js",
+  "main.js.map": "/EOG-Assesment-React-Visualization/static/js/main.4114e646.chunk.js.map",
+  "static/css/1.297a6a09.chunk.css": "/EOG-Assesment-React-Visualization/static/css/1.297a6a09.chunk.css",
+  "static/js/1.b79d1b91.chunk.js": "/EOG-Assesment-React-Visualization/static/js/1.b79d1b91.chunk.js",
+  "static/js/1.b79d1b91.chunk.js.map": "/EOG-Assesment-React-Visualization/static/js/1.b79d1b91.chunk.js.map",
+  "runtime~main.js": "/EOG-Assesment-React-Visualization/static/js/runtime~main.0ec01c21.js",
+  "runtime~main.js.map": "/EOG-Assesment-React-Visualization/static/js/runtime~main.0ec01c21.js.map",
+  "static/css/1.297a6a09.chunk.css.map": "/EOG-Assesment-React-Visualization/static/css/1.297a6a09.chunk.css.map",
+  "index.html": "/EOG-Assesment-React-Visualization/index.html",
+  "precache-manifest.0279b2d6dc1bc3f6bc47f53d7cc5d64e.js": "/EOG-Assesment-React-Visualization/precache-manifest.0279b2d6dc1bc3f6bc47f53d7cc5d64e.js",
+  "service-worker.js": "/EOG-Assesment-React-Visualization/service-worker.js"
 }
