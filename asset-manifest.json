@@ -1,13 +1,13 @@
 {
-  "main.js": "/EOG-Assesment-React-Visualization/static/js/main.4114e646.chunk.js",
-  "main.js.map": "/EOG-Assesment-React-Visualization/static/js/main.4114e646.chunk.js.map",
-  "static/css/1.297a6a09.chunk.css": "/EOG-Assesment-React-Visualization/static/css/1.297a6a09.chunk.css",
-  "static/js/1.b79d1b91.chunk.js": "/EOG-Assesment-React-Visualization/static/js/1.b79d1b91.chunk.js",
-  "static/js/1.b79d1b91.chunk.js.map": "/EOG-Assesment-React-Visualization/static/js/1.b79d1b91.chunk.js.map",
-  "runtime~main.js": "/EOG-Assesment-React-Visualization/static/js/runtime~main.0ec01c21.js",
-  "runtime~main.js.map": "/EOG-Assesment-React-Visualization/static/js/runtime~main.0ec01c21.js.map",
-  "static/css/1.297a6a09.chunk.css.map": "/EOG-Assesment-React-Visualization/static/css/1.297a6a09.chunk.css.map",
-  "index.html": "/EOG-Assesment-React-Visualization/index.html",
-  "precache-manifest.0279b2d6dc1bc3f6bc47f53d7cc5d64e.js": "/EOG-Assesment-React-Visualization/precache-manifest.0279b2d6dc1bc3f6bc47f53d7cc5d64e.js",
-  "service-worker.js": "/EOG-Assesment-React-Visualization/service-worker.js"
+  "main.js": "/React-Realtime-Visualization/static/js/main.f46c4ccd.chunk.js",
+  "main.js.map": "/React-Realtime-Visualization/static/js/main.f46c4ccd.chunk.js.map",
+  "static/css/1.297a6a09.chunk.css": "/React-Realtime-Visualization/static/css/1.297a6a09.chunk.css",
+  "static/js/1.b79d1b91.chunk.js": "/React-Realtime-Visualization/static/js/1.b79d1b91.chunk.js",
+  "static/js/1.b79d1b91.chunk.js.map": "/React-Realtime-Visualization/static/js/1.b79d1b91.chunk.js.map",
+  "runtime~main.js": "/React-Realtime-Visualization/static/js/runtime~main.a7c12503.js",
+  "runtime~main.js.map": "/React-Realtime-Visualization/static/js/runtime~main.a7c12503.js.map",
+  "static/css/1.297a6a09.chunk.css.map": "/React-Realtime-Visualization/static/css/1.297a6a09.chunk.css.map",
+  "index.html": "/React-Realtime-Visualization/index.html",
+  "precache-manifest.89b3af538059a9471de2a3fae0ddedcf.js": "/React-Realtime-Visualization/precache-manifest.89b3af538059a9471de2a3fae0ddedcf.js",
+  "service-worker.js": "/React-Realtime-Visualization/service-worker.js"
 }
